@@ -1,0 +1,49 @@
+.image-search {
+    margin-top: 100px;
+}
+.image-search-title-container {
+    margin: 20px;
+}
+.image-search-title {
+    text-align: center;
+    font-weight: 10px;
+    font-size: 80px;
+    text-shadow: 2px 0 0 blanchedalmond, 4px 0 0 blanchedalmond, 8px 0 0 rgb(20, 40, 95), 0 8px 0 rgb(209, 178, 92), 12px 0 0 rgb(20, 40, 95),
+        8px 10px 0 rgb(209, 178, 92);
+}
+
+.image-search-form {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    color: red;
+}
+.Image-input {
+    background-color: transparent;
+    border: none;
+    box-shadow: none;
+    outline: none;
+    border-bottom: rgb(18, 36, 87) solid 2px;
+    color: blanchedalmond;
+    font-weight: bold;
+}
+.Image-input:focus {
+    color: blanchedalmond;
+}
+.btn-personal-style {
+    margin-left: 10px;
+    font-weight: bold;
+    color: blanchedalmond;
+    border: rgb(18, 36, 87) solid 1px;
+    background-color: black;
+    border-radius: 2px;
+    outline: none;
+    transition: ease 0.5s;
+}
+.btn-personal-style:hover {
+    background-color: rgb(29, 29, 29);
+    border: rgb(30, 61, 146) solid 1px;
+
+    transition: ease 0.5s;
+}
