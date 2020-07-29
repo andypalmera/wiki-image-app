@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/wiki-image-app/static/css/main.a5d6b3cf.chunk.css",
+    "main.js": "/wiki-image-app/static/js/main.3c49a7fe.chunk.js",
+    "main.js.map": "/wiki-image-app/static/js/main.3c49a7fe.chunk.js.map",
+    "runtime-main.js": "/wiki-image-app/static/js/runtime-main.a05e8ac7.js",
+    "runtime-main.js.map": "/wiki-image-app/static/js/runtime-main.a05e8ac7.js.map",
+    "static/js/2.41f0d7fc.chunk.js": "/wiki-image-app/static/js/2.41f0d7fc.chunk.js",
+    "static/js/2.41f0d7fc.chunk.js.map": "/wiki-image-app/static/js/2.41f0d7fc.chunk.js.map",
+    "index.html": "/wiki-image-app/index.html",
+    "precache-manifest.d6ce3cdad0d21d165b98e9be187534fd.js": "/wiki-image-app/precache-manifest.d6ce3cdad0d21d165b98e9be187534fd.js",
+    "service-worker.js": "/wiki-image-app/service-worker.js",
+    "static/css/main.a5d6b3cf.chunk.css.map": "/wiki-image-app/static/css/main.a5d6b3cf.chunk.css.map",
+    "static/js/2.41f0d7fc.chunk.js.LICENSE": "/wiki-image-app/static/js/2.41f0d7fc.chunk.js.LICENSE"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.a05e8ac7.js",
+    "static/js/2.41f0d7fc.chunk.js",
+    "static/css/main.a5d6b3cf.chunk.css",
+    "static/js/main.3c49a7fe.chunk.js"
+  ]
+}
